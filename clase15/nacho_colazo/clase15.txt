@@ -1,0 +1,16 @@
+1. Porque un lenguaje de programacion solo peude utilizarse en algunos sistemas operativos y en
+otros no ?
+
+R/> Depende de la compatibilidad es la condicion que hace que un programa y un sistema, arquitectura
+o aplicacion logra comprenderse correctamente, tanto directa como indirectamente (mediante un
+algoritmo). A este algoritmo se le denomina emulador por el hecho que ers un interptrete entre
+el programa y el sistema, arquitectura o aplicacion.
+
+2. Que tipo de maquina virtual es VirtualBox ?
+R/> Virtual box es un tipo de maquina Vritual VM (Permite instalacion de sistema operativo)
+
+3. Si tengo mas de una maquina virutal isntalada, y una se rompe, Esto afecta a las demas ?
+Porque ?
+
+R/> No, no afecta a las otras maquinas virutales instaladas, por que cada uan es independiente
+de la otra, lo que si es, que entre mas maquinas virutales, mas va a consumir el hardware.
